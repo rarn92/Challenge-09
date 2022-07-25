@@ -1,5 +1,3 @@
-Challenge-09
-
 09 Node.js Challenge: Professional README Generator
 
 Command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer).
